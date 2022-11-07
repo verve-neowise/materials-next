@@ -1,0 +1,8 @@
+{
+    "name": "Typescript", 
+    "icon": "/ts.png",
+    "extraName": "Advanced Backend development", 
+    "description": "Advanced Backend development for 6 month", 
+    "path": "ts",
+    "code": "ts"
+}

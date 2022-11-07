@@ -1,0 +1,8 @@
+{
+    "name": "Node.js", 
+    "icon": "/node.png",
+    "extraName": "Backend development", 
+    "description": "Backend development for 6 month", 
+    "path": "node-js",
+    "code": "node-js"
+}

@@ -1,0 +1,23 @@
+code {
+  background-color: rgb(234, 234, 234);
+  color: rgb(43, 43, 43);
+  padding: 5px;
+}
+
+pre code {
+  display: block;
+  padding: 20px;
+  background-color: rgb(43, 43, 43);
+  color: rgb(212, 212, 212);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+td, th {
+  padding: 10px;
+ border: 1px solid #e3e3e3;
+}
