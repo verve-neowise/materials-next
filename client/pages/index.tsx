@@ -10,7 +10,7 @@ export default function Modules({ modules }: { modules: Module[] }) {
     const router = useRouter()
 
     const gotoModule = (name: string) => {
-        router.push('/' + name)
+        router.push('/module/' + name)
     }
 
     return (
